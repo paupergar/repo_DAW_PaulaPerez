@@ -1,2 +1,2 @@
-# repo_DAW_PaulaP-rez
+# repo_DAW_PaulaPerez
 Repositorio para la asignatura de DAW de 2DAW.
